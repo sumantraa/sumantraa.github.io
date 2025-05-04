@@ -1,1 +1,14 @@
 /* Custom stylesheet, add your own styles here */
+
+.donation-question {
+  text-decoration: underline;
+  text-decoration-color: #eac65a;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-align: left;
+}
+
+.donation-answer {
+  text-align: left;
+  white-space: pre-line;
+}
